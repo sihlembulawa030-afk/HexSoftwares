@@ -1,0 +1,46 @@
+body {
+    background-image: url("pexels-rickyrecap-1907785.jpg");
+    background-size: cover;
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid black;
+    background-color: white;
+    color: red;
+}
+#book-list img{
+    width: 100px;
+    height: 150px;
+    margin: 10px;
+}
+
+button {
+    padding: 10px;
+    background-color: lightpink;
+    color: pink;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: brown;
+}
+
+h1, h2 {
+    text-align: center;
+}
